@@ -7,7 +7,7 @@ steps:
   image: plugins/docker
   settings:
     # registry: docker.io
-    repo: juanluisbaptiste/docker-hello-world
+    repo: ragh2/dronesample
     username:
       from_secret: docker_username
     password:
